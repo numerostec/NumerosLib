@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather">
+        <item>200:thunderstorm with light</item>
+        <item>201:thunderstorm with rain</item>
+        <item>202:thunderstorm with heavy rain</item>
+        <item>210:light thunderstorm</item>
+        <item>211:thunderstorm</item>
+        <item>212:heavy thunderstorm</item>
+        <item>221:ragged thunderstorm</item>
+        <item>230:thunderstorm with light drizzle</item>
+        <item>231:thunderstorm with drizzle</item>
+        <item>232:thunderstorm with heavy drizzle</item>
+
+        <item>300:light intensity drizzle</item>
+        <item>301:drizzle</item>
+        <item>302:heavy intensity drizzle</item>
+        <item>310:light intensity drizzle rain</item>
+        <item>311:drizzle rain</item>
+        <item>312:heavy intensity drizzle rain</item>
+        <item>313:shower rain and drizzle</item>
+        <item>314:heavy shower rain and drizzle</item>
+        <item>321:shower drizzle</item>
+
+        <item>500:light rain</item>
+        <item>501:moderate rain</item>
+        <item>502:heavy intensity rain</item>
+        <item>503:very heavy rain</item>
+        <item>504:extreme rain</item>
+        <item>511:freezing rain</item>
+        <item>520:light intensity shower rain</item>
+        <item>521:shower rain</item>
+        <item>522:heavy intensity shower rain</item>
+        <item>531:ragged shower rain</item>
+
+        <item>600:light snow</item>
+        <item>601:snow</item>
+        <item>602:heavy snow</item>
+        <item>611:sleet</item>
+        <item>612:shower sleet</item>
+        <item>615:light rain and snow</item>
+        <item>616:rain and snow</item>
+        <item>620:light shower snow</item>
+        <item>621:shower snow</item>
+        <item>622:heavy shower snow</item>
+
+        <item>701:mist</item>
+        <item>711:smoke</item>
+        <item>721:haze</item>
+        <item>731:sand, dust whirls</item>
+        <item>741:fog</item>
+        <item>751:sand</item>
+        <item>761:dust</item>
+        <item>762:volcanic ash</item>
+        <item>771:squalls</item>
+        <item>781:tornado</item>
+
+        <item>800:clear sky</item>
+        <item>801:few clouds</item>
+        <item>802:scattered clouds</item>
+        <item>803:broken clouds</item>
+        <item>804:overcast clouds</item>
+
+        <item>900:tornado</item>
+        <item>901:tropical storm</item>
+        <item>902:hurricane</item>
+        <item>903:cold</item>
+        <item>904:hot</item>
+        <item>905:windy</item>
+        <item>906:hail</item>
+
+        <item>951:calm</item>
+        <item>952:light breeze</item>
+        <item>953:gentle breeze</item>
+        <item>954:moderate breeze</item>
+        <item>955:fresh breeze</item>
+        <item>956:strong breeze</item>
+        <item>957:high wind, near gale</item>
+        <item>958:gale</item>
+        <item>959:severe gale</item>
+        <item>960:storm</item>
+        <item>961:violent storm</item>
+        <item>962:hurricane</item>
+
+    </string-array>
+</resources>

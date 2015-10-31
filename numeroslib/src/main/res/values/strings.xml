@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">NumerosLib</string>
+    <string name="app_name" translatable="false">NumerosLib</string>
+    <string name="connection_error">Error try to connect to server. Verify your connection an try again.</string>
+    <string name="gps_inactivo">The GPS is not active</string>
+    <string name="gps_inactivo_msg">Please enable location services and GPS for the proper functioning of the application</string>
+    <string name="continuar">Continue</string>
+    <string name="configuracion_gps">GPS configuration</string>
+    <string name="gps_no_habilitado">The GPS is not enabled. Do you want to enable it now?</string>
+    <string name="configuracion">Configuration</string>
+    <string name="cancelar">Cancel</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="campos_requeridos">Required fields:</string>
+    <string name="habilitar">Enable</string>
 </resources>

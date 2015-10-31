@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather">
+        <item>200:tormenta eléctrica con la luz</item>
+        <item>201:tormenta con lluvia</item>
+        <item>202:tormenta con fuertes lluvias</item>
+        <item>210:tormenta de luz</item>
+        <item>211:tormenta eléctrica</item>
+        <item>212:fuerte tormenta</item>
+        <item>221:desigual tormenta</item>
+        <item>230:tormenta con ligera llovizna</item>
+        <item>231:tormenta con llovizna</item>
+        <item>232:tormenta con llovizna pesada</item>
+
+        <item>300:llovizna intensidad de luz</item>
+        <item>301:llovizna</item>
+        <item>302:llovizna intensidad pesada</item>
+        <item>310:Llovizna llovizna intensidad</item>
+        <item>311:lluvia llovizna</item>
+        <item>312:ligera llovizna llovizna intensidad</item>
+        <item>313:ducha de lluvia y llovizna</item>
+        <item>314:fuertes lluvias ducha y llovizna</item>
+        <item>321:ducha llovizna</item>
+
+        <item>500:lluvia ligera</item>
+        <item>501:lluvia moderada</item>
+        <item>502:lluvia de alta intensidad</item>
+        <item>503:lluvia muy pesada</item>
+        <item>504:lluvia extrema</item>
+        <item>511:lluvia helada</item>
+        <item>520:Parcialmente nublado intensidad</item>
+        <item>521:ducha de lluvia</item>
+        <item>522:fuertes lluvias ducha intensidad</item>
+        <item>531:desigual lluvia ducha</item>
+
+        <item>600:nieve ligera</item>
+        <item>601:nieve</item>
+        <item>602:fuerte nevada</item>
+        <item>611:aguanieve</item>
+        <item>612:ducha aguanieve</item>
+        <item>615:lluvia y nieve</item>
+        <item>616:la lluvia y la nieve</item>
+        <item>620:luz nieve ducha</item>
+        <item>621:ducha de nieve</item>
+        <item>622:nieve aguacero</item>
+
+        <item>701:Niebla</item>
+        <item>711:humo</item>
+        <item>721:bruma</item>
+        <item>731:arena, remolinos de polvo</item>
+        <item>741:niebla</item>
+        <item>751:Arena</item>
+        <item>761:polvo</item>
+        <item>762:ceniza volcánica</item>
+        <item>771:chubascos</item>
+        <item>781:tornado</item>
+
+        <item>800:cielo despejado</item>
+        <item>801:pocas nubes</item>
+        <item>802:dispersas nubes</item>
+        <item>803:roto nubes</item>
+        <item>804:nubes nublados</item>
+
+        <item>900:tornado</item>
+        <item>901:la tormenta tropical</item>
+        <item>902:huracán</item>
+        <item>903:frío</item>
+        <item>904:caliente</item>
+        <item>905:ventoso</item>
+        <item>906:granizo</item>
+
+        <item>951:apaciguador</item>
+        <item>952:ligera brisa</item>
+        <item>953:suave brisa</item>
+        <item>954:brisa moderada</item>
+        <item>955:brisa fresca</item>
+        <item>956:fuerte brisa</item>
+        <item>957:fuerte viento, cerca vendaval</item>
+        <item>958:vendaval</item>
+        <item>959:vendaval severa</item>
+        <item>960:Tormenta</item>
+        <item>961:violenta tormenta</item>
+        <item>962:huracán</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connection_error">Error al conectar con el servidor. Verifique su conexión e intente nuevamente.</string>
+    <string name="gps_inactivo">El GPS no está activo</string>
+    <string name="gps_inactivo_msg">Por favor habilite los servicios de localización y GPS para el correcto funcionamiento de la aplicación</string>
+    <string name="habilitar">Habilitar</string>
+    <string name="continuar">Continuar</string>
+    <string name="configuracion_gps">Configuración del GPS</string>
+    <string name="gps_no_habilitado">El GPS no está habilitado. ¿Desea habilitarlo ahora?</string>
+    <string name="configuracion">Configuración</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="campos_requeridos">Campos requeridos:</string>
+</resources>
